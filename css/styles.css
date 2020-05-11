@@ -1,5 +1,5 @@
 header{
-	background-image: url('https://us.123rf.com/450wm/leyasw/leyasw1412/leyasw141200059/34793027-light-gray-wood-texture-background-natural-pattern-swatch-horizontal-template-vector-illustration.jpg?ver=6');
+	background-image: url(images/background-header.jpg);
 	background-size:1920px 148px;
 	font-family: arial;
 	text-align: center;
@@ -10,7 +10,7 @@ header{
 	color: black;
 }
 body{
-	background-image: url(https://image.freepik.com/free-photo/gray-wall-textures-background_74190-4389.jpg);
+	background-image: url(images/background-body.jpg);
 	background-size: 1920px 1080px;
 }
 h2{
