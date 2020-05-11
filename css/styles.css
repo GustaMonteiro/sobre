@@ -1,0 +1,25 @@
+header{
+	background-image: url('https://us.123rf.com/450wm/leyasw/leyasw1412/leyasw141200059/34793027-light-gray-wood-texture-background-natural-pattern-swatch-horizontal-template-vector-illustration.jpg?ver=6');
+	background-size:1920px 148px;
+	font-family: arial;
+	text-align: center;
+}
+.nome{
+	margin-bottom: 15px;
+	margin-top: 0;
+	color: black;
+}
+body{
+	background-image: url(https://image.freepik.com/free-photo/gray-wall-textures-background_74190-4389.jpg);
+	background-size: 1920px 1080px;
+}
+h2{
+	text-decoration: underline;
+	font-family: arial;
+}
+li{
+	list-style: none;
+}
+.topico{
+	list-style: circle;
+}
