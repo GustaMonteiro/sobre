@@ -1,25 +1,36 @@
 header{
-	background-image: url(images/background-header.jpg);
-	background-size:1920px 148px;
-	font-family: arial;
+	font-family: verdana;
 	text-align: center;
+}
+body{
+	background-color: lightslategray;
+	font-family: verdana;
 }
 .nome{
 	margin-bottom: 15px;
 	margin-top: 0;
 	color: black;
 }
-body{
-	background-image: url(images/background-body.jpg);
-	background-size: 1920px 1080px;
-}
 h2{
-	text-decoration: underline;
-	font-family: arial;
+	text-decoration: none;
+	font-family: verdana;
+	padding-top: 15px;
 }
 li{
 	list-style: none;
 }
 .topico{
 	list-style: circle;
+	list-style-position: inside;
+}
+.description{
+	background-color: white;
+	text-align: center;
+	margin: 0;
+}
+.linha{
+	width: 50%;
+	border-bottom: 1px solid;
+	border-color: lightgray;
+	margin: auto;
 }
