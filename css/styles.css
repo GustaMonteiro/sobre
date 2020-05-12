@@ -1,6 +1,7 @@
 header{
 	font-family: verdana;
 	text-align: center;
+	padding: 10px;
 }
 body{
 	background-color: lightslategray;
@@ -27,6 +28,7 @@ li{
 	background-color: white;
 	text-align: center;
 	margin: 0;
+	padding: 10px;
 }
 .linha{
 	width: 50%;
